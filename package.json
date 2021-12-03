@@ -9,9 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@prisma/client": "^3.6.0",
     "apollo-server": "^3.4.0",
     "graphql": "^15.6.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "prisma": "^3.6.0"
+  },
   "description": ""
 }
